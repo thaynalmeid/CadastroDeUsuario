@@ -2,7 +2,8 @@ package br.edu.ifal;
 
 public class Usuario {
 	
-	private String nome;
+	private 
+	String nome;
 	private String cpf;
 	private int idade;
 	
